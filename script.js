@@ -1,6 +1,6 @@
 const quote = document.getElementById("quote");
 const author = document.getElementById("author");
-const dateModified = document.getElementById("date");
+// const dateModified = document.getElementById("date");
 
 const api_url = "https://api.quotable.io/random";
 
